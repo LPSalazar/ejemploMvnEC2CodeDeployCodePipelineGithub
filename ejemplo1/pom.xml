@@ -33,7 +33,7 @@
 		        <archive>
 		            <manifest>
 		                <addClasspath>true</addClasspath>
-		                <mainClass>com.mvnEC2.mvnDeEC2.Creador</mainClass>
+		                <mainClass>practica.mvnEC2CodeDeployCodePipelineGithub.ejemplo1.CreadorDeArchivos</mainClass>
 		            </manifest>
 		        </archive>
 		    </configuration>
