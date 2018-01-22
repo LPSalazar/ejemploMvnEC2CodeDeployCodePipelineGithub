@@ -23,7 +23,7 @@
     </dependency>
   </dependencies>
   
-  <!-- aqui se declara el plugin necesario para generar un .jar -->
+  <!-- aqui se declara el plugin necesario para generar un .jar jajaja-->
   <build>
   	<plugins>
   		<plugin>
