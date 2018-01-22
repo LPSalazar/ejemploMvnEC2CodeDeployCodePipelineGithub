@@ -20,7 +20,8 @@ public class CreadorDeArchivos {
 		}
 		else {
 			bw= new BufferedWriter(new FileWriter(archivo));
-			bw.write("esto ya estaba creado, pero seguramente se hizo una modificacion");
+			bw.write("esto ya estaba creado, pero seguramente se hizo una modificacion"
+					+ "se agraga mas texto para comprobar algo");
 		}
 		bw.close();
 	}
