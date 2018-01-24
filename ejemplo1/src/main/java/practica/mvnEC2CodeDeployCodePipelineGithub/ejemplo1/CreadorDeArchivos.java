@@ -23,7 +23,8 @@ public class CreadorDeArchivos {
 			bw.write("esto ya estaba creado, pero seguramente se hizo una modificacion"
 					+"hola otra vez"
 					+ "nuevo evento"
-					+ "nononon otro cambio");
+					+ "nononon otro cambio"
+					+ "otra prueba");
 
 
 		bw.close();
