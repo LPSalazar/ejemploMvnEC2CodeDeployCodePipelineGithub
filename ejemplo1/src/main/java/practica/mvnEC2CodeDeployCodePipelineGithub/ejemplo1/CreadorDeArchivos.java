@@ -24,7 +24,8 @@ public class CreadorDeArchivos {
 					+"hola otra vez"
 					+ "mas datos"
 					+ "mas informacion"
-					+ "mas habilidad2");
+					+ "mas habilidad2"
+					+ "mas cambios");
 		bw.close();
 	}
 	}
