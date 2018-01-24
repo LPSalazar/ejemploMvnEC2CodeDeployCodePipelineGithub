@@ -22,9 +22,9 @@ public class CreadorDeArchivos {
 			bw= new BufferedWriter(new FileWriter(archivo));
 
 			bw.write("nada mas");
-
 		
 		bw.close();
 	}
+		System.out.println("prueba");
 	}
 }
