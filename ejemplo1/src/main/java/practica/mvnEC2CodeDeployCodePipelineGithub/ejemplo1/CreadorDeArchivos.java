@@ -20,8 +20,8 @@ public class CreadorDeArchivos {
 		}
 		else {
 			bw= new BufferedWriter(new FileWriter(archivo));
-			bw.write("nada mas");
 
+			bw.write("nada mas");
 		
 		bw.close();
 	}
