@@ -26,5 +26,6 @@ public class CreadorDeArchivos {
 		System.out.println("hola12");
 		System.out.println("mundo");
 		System.out.println("jajajjaja");
+		System.out.println("alumno1");
 	}
 }
