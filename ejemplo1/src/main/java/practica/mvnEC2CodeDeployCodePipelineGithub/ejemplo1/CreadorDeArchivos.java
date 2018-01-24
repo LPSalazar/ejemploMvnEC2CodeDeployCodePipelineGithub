@@ -23,9 +23,19 @@ public class CreadorDeArchivos {
 			bw.write("esto ya estaba creado, pero seguramente se hizo una modificacion"
 					+"hola otra vez"
 
-					+ " se agraga mas texto para comprobar algo"
-					+ "otra prueba, pero del alumno2");
 
+					+ " se agraga mas texto para comprobar algo"
+					+ "otra prueba, pero del alumno2"
+
+
+					+ " se agraga mas texto para comprobar algo (modificado por alumno1)"
+					+ "ajjajajajaj"
+					+ "jajajajja"
+					+ "jajajajjaja"
+					+ "ajajjaja"
+					+ "hola mundo"
+					+ "nuevo contenido23"
+					+ "algo mas");
 
 		bw.close();
 	}
