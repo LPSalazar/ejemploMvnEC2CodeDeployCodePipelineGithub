@@ -21,7 +21,7 @@ public class CreadorDeArchivos {
 		else {
 			bw= new BufferedWriter(new FileWriter(archivo));
 			bw.write("esto ya estaba creado, pero seguramente se hizo una modificacion"
-
+					+"hola otra vez"
 
 					+ " se agraga mas texto para comprobar algo"
 					+ "otra prueba, pero del alumno2");
