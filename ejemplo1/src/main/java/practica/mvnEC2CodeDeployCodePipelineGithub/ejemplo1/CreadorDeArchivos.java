@@ -25,5 +25,6 @@ public class CreadorDeArchivos {
 		
 		bw.close();
 	}
+		System.out.println("prueba");
 	}
 }
