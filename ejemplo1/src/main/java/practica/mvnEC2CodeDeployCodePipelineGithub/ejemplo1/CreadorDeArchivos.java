@@ -25,6 +25,6 @@ public class CreadorDeArchivos {
 			
 		bw.close();
 	}
-		System.out.println("hola2");
+		System.out.println("hola12");
 	}
 }
