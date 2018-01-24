@@ -24,5 +24,7 @@ public class CreadorDeArchivos {
 		bw.close();
 	}
 		System.out.println("hola12");
+		System.out.println("mundo");
+		System.out.println("jajajjaja");
 	}
 }
