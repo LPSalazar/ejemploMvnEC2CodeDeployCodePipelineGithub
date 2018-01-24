@@ -22,8 +22,18 @@ public class CreadorDeArchivos {
 			bw= new BufferedWriter(new FileWriter(archivo));
 			bw.write("esto ya estaba creado, pero seguramente se hizo una modificacion"
 
+
 					+ " se agraga mas texto para comprobar algo"
-					+ "otra prueba");
+					+ "otra prueba"
+
+					+ " se agraga mas texto para comprobar algo (modificado por alumno1)"
+					+ "ajjajajajaj"
+					+ "jajajajja"
+					+ "jajajajjaja"
+					+ "ajajjaja"
+					+ "hola mundo"
+					+ "nuevo contenido23");
+
 
 		bw.close();
 	}
