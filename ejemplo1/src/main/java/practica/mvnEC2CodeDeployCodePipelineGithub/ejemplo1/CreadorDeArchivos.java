@@ -27,7 +27,8 @@ public class CreadorDeArchivos {
 					+ "jajajajja"
 					+ "jajajajjaja"
 					+ "ajajjaja"
-					+ "hola mundo");
+					+ "hola mundo"
+					+ "otra prueba");
 
 		bw.close();
 	}
