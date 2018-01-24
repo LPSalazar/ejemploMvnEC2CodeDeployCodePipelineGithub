@@ -25,8 +25,6 @@ public class CreadorDeArchivos {
 					+ "mas datos"
 					+ "mas informacion"
 					+ "mas habilidad2");
-
-
 		bw.close();
 	}
 	}
