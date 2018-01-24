@@ -24,7 +24,7 @@ public class CreadorDeArchivos {
 					+"hola otra vez"
 					+ "nuevo evento"
 					+ "nononon otro cambio"
-					+ "otra prueba");
+					+ "otra prueba2");
 
 
 		bw.close();
