@@ -22,10 +22,9 @@ public class CreadorDeArchivos {
 			bw= new BufferedWriter(new FileWriter(archivo));
 			bw.write("esto ya estaba creado, pero seguramente se hizo una modificacion"
 					+"hola otra vez"
-					+ "nuevo evento"
-					+ "nononon otro cambio");
-
-
+					+ "mas datos"
+					+ "mas informacion"
+					+ "mas habilidad2");
 		bw.close();
 	}
 	}
