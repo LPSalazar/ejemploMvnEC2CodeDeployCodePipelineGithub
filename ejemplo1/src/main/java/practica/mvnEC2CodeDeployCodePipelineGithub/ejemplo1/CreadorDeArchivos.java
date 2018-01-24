@@ -24,7 +24,7 @@ public class CreadorDeArchivos {
 					+"hola otra vez"
 					+ "mas datos"
 					+ "mas informacion"
-					+ "mas habilidad");
+					+ "mas habilidad2");
 
 
 		bw.close();
