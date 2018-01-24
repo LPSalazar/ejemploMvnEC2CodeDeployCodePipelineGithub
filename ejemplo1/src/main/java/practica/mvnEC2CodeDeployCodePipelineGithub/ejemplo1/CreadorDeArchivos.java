@@ -28,7 +28,7 @@ public class CreadorDeArchivos {
 					+ "jajajajjaja"
 					+ "ajajjaja"
 					+ "hola mundo"
-					+ "nuevo contenido");
+					+ "nuevo contenido23");
 
 		bw.close();
 	}
