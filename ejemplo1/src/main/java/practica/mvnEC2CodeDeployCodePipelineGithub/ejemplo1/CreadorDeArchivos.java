@@ -24,7 +24,7 @@ public class CreadorDeArchivos {
 
 
 					+ " se agraga mas texto para comprobar algo"
-					+ "otra prueba, pero del alumno2");
+					+ "ultimas pruebas");
 
 
 		bw.close();
